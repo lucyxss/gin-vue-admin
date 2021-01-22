@@ -1,4 +1,3 @@
-﻿
 <div align=center>
 <img src="http://qmplusimg.henrongyi.top/gvalogo.jpg" width=300" height="300" />
 </div>
@@ -145,6 +144,7 @@ After executing the above command，`docs` will show in `server/`，then open yo
 ## 4. Project Architecture
 
 ![Architecture diagram](./docs/gin-vue-admin.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucyxss%2Fgin-vue-admin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucyxss%2Fgin-vue-admin?ref=badge_shield)
 
 ```
     ├─server  	     （backend）
@@ -255,3 +255,7 @@ backend code file: model\dnModel\api.go
 
 If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flucyxss%2Fgin-vue-admin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Flucyxss%2Fgin-vue-admin?ref=badge_large)
