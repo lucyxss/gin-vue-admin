@@ -15,7 +15,7 @@ COPY web/ ./
 RUN yarn install && yarn run build
 
 
-FROM nginx:alpine
+FROM nginx:1.21-alpine
 LABEL MAINTAINER="rikugun"
 
 RUN apk add --no-cache  gettext tzdata   && \
