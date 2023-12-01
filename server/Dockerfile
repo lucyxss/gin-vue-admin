@@ -1,4 +1,4 @@
-FROM golang:alpine as builder
+FROM golang:1.21.4-alpine3.18 as builder
 
 # 设置go mod proxy 国内代理
 # 设置golang path
